@@ -6,6 +6,27 @@
   - Email : lee2003121@naver.com
 - ⚡ Fun fact: Game Programming and Game Play
 
+## 🛠 Technologies & Tools
+<h3>OS</h3>
+<p>
+  <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+
+<h3>Code</h3>
+<p>
+  <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
+  <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+</p>
+
+
 
 
 ## ⚡ My Achievements
