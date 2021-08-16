@@ -19,8 +19,8 @@
 </p>
 
 <h3>Tools</h3>
-<p>
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<p>	
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-badge-blue.svg?style=flat-square&logo=eclipseide&logoColor=white"/>
