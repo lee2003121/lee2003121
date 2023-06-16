@@ -44,19 +44,8 @@
 
 
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/lee2003121/lee2003121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee2003121&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
-</a>
-<a href="https://github.com/lee2003121/lee2003121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lee2003121&show_icons=true&line_height=27&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
-</a>
-![](./profile-3d-contrib/profile-green-animate.svg)
-<!--
-**lee2003121/lee2003121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
