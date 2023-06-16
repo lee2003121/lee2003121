@@ -60,4 +60,3 @@ Here are some ideas to get you started:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
