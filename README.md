@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Jongwan's%20GitHub&fontSize=70&animation=scaleIn)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&color=131DF7&background=E47FFF69&center=true&vCenter=true&width=435&lines=Hi%2C+this+is+Lee+Jong-wan's+GitHub)](https://git.io/typing-svg)
 ### Hi there 👋
 - 🌱 I’m currently learning Algorithm, web(Back-end), unity, deep learning 
 - 💬 Ask me about Korean C++ Programmer
