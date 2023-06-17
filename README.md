@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Jongwan's%20GitHub&fontSize=70&animation=scaleIn)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee2003121)](https://github.com/lee2003121/github-readme-stats)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Algorithm, web(Back-end), unity, deep learning 
@@ -46,9 +45,8 @@
 <a href="https://github.com/lee2003121/lee2003121">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lee2003121&show_icons=true&line_height=27&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
 </a>
-<a href="s">
-  <img src="https://raw.githubusercontent.com/lee2003121/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee2003121)](https://github.com/lee2003121/github-readme-stats)
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
