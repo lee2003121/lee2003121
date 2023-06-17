@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=73&pause=1000&color=131DF7&background=E47FFF69&center=true&vCenter=true&width=1000&height=200&lines=Hi%2C+this+is+Lee+Jong-wan's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=70&pause=1000&color=131DF7&background=E47FFF69&center=true&vCenter=true&width=1100&height=160&lines=Hi%2C+this+is+Lee+Jong-wan's+GitHub)](https://git.io/typing-svg)
 ### Hi there 👋
 - 🌱 I’m currently learning Algorithm, web(Back-end), unity, deep learning 
 - 💬 Ask me about Korean C++ Programmer
