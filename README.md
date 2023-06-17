@@ -45,7 +45,7 @@
 <a href="https://github.com/lee2003121/lee2003121">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lee2003121&show_icons=true&line_height=27&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee2003121)](https://github.com/lee2003121/github-readme-stats)
+[![lee2003121's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee2003121)](https://github.com/lee2003121/github-readme-stats)
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
